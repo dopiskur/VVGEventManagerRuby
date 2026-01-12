@@ -32,7 +32,7 @@ class EventManagerApp
       break unless answer == 'da'
     end
 
-    puts "\nHvala što ste koristili Event Manager!"
+    puts "\nBokić!"
     Database.close
   end
 end
